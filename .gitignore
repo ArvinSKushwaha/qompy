@@ -1,0 +1,5 @@
+.tox/
+.pytest_cache/
+qompy.egg-info/
+build/
+**/__pycache__/
