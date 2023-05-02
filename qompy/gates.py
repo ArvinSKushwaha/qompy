@@ -41,7 +41,6 @@ class Identity(Operation):
 
     def execute(self, state: npt.NDArray[np.complex128]) -> None:
         super().execute(state)
-        ...
 
 
 class Hadamard(Operation):
